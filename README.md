@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href=" Bootsrap Landing Page">
-    <img src="https://media.giphy.com/media/90F8aUepslB84/giphy.gif" alt="Logo" width="700" height="500">
+    <img src="https://media.giphy.com/media/zp35Ziv146H94NYJIJ/giphy.gif" alt="Logo" width="700" height="500">
   </a>
 
   <h3 align="center">Bootstrap Login Page</h3>
