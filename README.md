@@ -6,8 +6,7 @@
     <img src="https://media.giphy.com/media/90F8aUepslB84/giphy.gif" alt="Logo" width="700" height="500">
   </a>
 
-  <h3 align="center">Web design landing page mini project 1</h3>
-
+  <h3 align="center">Bootstrap Login Page</h3>
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
