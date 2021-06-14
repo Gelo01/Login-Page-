@@ -22,7 +22,7 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<details open="https://gelo01.github.io/Login-Page-/">
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -32,7 +32,7 @@
       </ul>
     </li>
     <li>
-      <a href="https://github.com/Gelo01/Login-Page-/">Getting Started</a>
+      <a href="https://gelo01.github.io/Login-Page-//">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -62,7 +62,7 @@ Here are the major frameworks that you built your project using. Here are a few 
 ## Getting Started
 
 This project is about responsive layout about yatch rental and how to properly apply some css responsive to all devices
-Here is the link of the webpage <li><a href="https://github.com/Gelo01/Login-Page-/">Click me!</a></li>
+Here is the link of the webpage <li><a href="https://gelo01.github.io/Login-Page-/">Click me!</a></li>
 
 ### Prerequisites
 
