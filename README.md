@@ -13,11 +13,11 @@
     <a href="https://github.com/Gelo01/responsive-web-app/find/main"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://gelo01.github.io/responsive-yach-main/">View Demo</a>
+    <a href="https://github.com/Gelo01/Login-Page-/">View Demo</a>
     ·
-    <a href="https://github.com/Gelo01/responsive-web-app/issues">Report Bug</a>
+    <a href="https://github.com/Gelo01/Login-Page-/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Gelo01/responsive-web-app/issues/new">Request Feature</a>
+    <a href="https://github.com/Gelo01/Login-Page-/issues/new">Request Feature</a>
   </p>
 </p>
 
@@ -32,7 +32,7 @@
       </ul>
     </li>
     <li>
-      <a href="https://gelo01.github.io/responsive-yach-main/">Getting Started</a>
+      <a href="https://github.com/Gelo01/Login-Page-/">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -62,7 +62,7 @@ Here are the major frameworks that you built your project using. Here are a few 
 ## Getting Started
 
 This project is about responsive layout about yatch rental and how to properly apply some css responsive to all devices
-Here is the link of the webpage <li><a href="https://gelo01.github.io/responsive-yach-main/">Click me!</a></li>
+Here is the link of the webpage <li><a href="https://github.com/Gelo01/Login-Page-/">Click me!</a></li>
 
 ### Prerequisites
 
